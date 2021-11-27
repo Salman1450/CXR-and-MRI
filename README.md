@@ -1,1 +1,1 @@
-# CNN_CXR_VGG
+# CNN_CXR_Inception
