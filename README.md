@@ -1,1 +1,1 @@
-# CNN_CXR_Inception
+# CXR and MRI data
